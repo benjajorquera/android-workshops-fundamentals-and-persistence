@@ -24,3 +24,7 @@ The app includes three main screens:
 - **User-Friendly Navigation**: Easy-to-access buttons guide users through the app screens.
 
 This repository will serve as a base for hands-on workshops in Android development.
+
+## Data model
+
+![Data model](../assets/data-model.png)
