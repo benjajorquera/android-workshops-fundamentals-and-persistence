@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fundamentals</string>
+    <string name="empleado_regular">Empleado Regular</string>
+    <string name="calcular">Calcular</string>
+    <string name="lt_volver"><![CDATA[<- Volver]]></string>
+    <string name="sueldo_bruto">Sueldo bruto</string>
+</resources>
